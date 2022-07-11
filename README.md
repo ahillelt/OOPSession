@@ -5,4 +5,4 @@ For Bridge to Tandon OOP Special Session (April 2021) led by:
 Michael Ruby & Alon HIllel-Tuch
 
 
-Note this is live code from the session
+Note this is live code from the session, this code will not compile
